@@ -36,9 +36,9 @@ This repository contains a Business Intelligence project developed with **Tablea
 
 ## 📁 Repository Structure
 
-- `dashboard.twbx`: Packaged Tableau dashboard (optional upload)
+- `dashboard.twbx`: Packaged Tableau dashboard 
 - `screenshots/`: Dashboard preview images
-- `README.md`: Project documentation (this file)
+- `README.md`: Project documentation
 
 ---
 
